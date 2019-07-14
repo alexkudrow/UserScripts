@@ -8,6 +8,12 @@ The repo contains UserScripts that I make for my own usage and ready to share wi
 
 - Nothing added yet
 
+## Links
+
+- Some ideas for organizing repo I have got [here](https://github.com/jerone/UserScripts)
+
 ## License
 
-All resources in [the repository](https://github.com/alexkudrow/UserScripts) are licensed under [GNU General Public License v3.0](https://github.com/alexkudrow/UserScripts/blob/master/LICENSE.txt) unless explicitly otherwise stated.
+All resources in [the repository](https://github.com/alexkudrow/UserScripts) are licensed under the terms [GNU General Public License v3.0](https://github.com/alexkudrow/UserScripts/blob/master/LICENSE.txt) unless explicitly otherwise stated.
+
+© 2019 Alex Kudrow (http://github.com/alexkudrow)
