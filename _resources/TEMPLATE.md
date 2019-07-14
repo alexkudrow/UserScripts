@@ -1,7 +1,7 @@
-# [XXXXX](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/XXXXX)
+# [SCRIPTNAME](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/SCRIPTFILE)
 
-[![Install](https://raw.githubusercontent.com/alexkudrow/UserScripts/master/_resources/button_install.png)](https://github.com/alexkudrow/UserScripts/raw/master/userscripts/XXXXX/XXXXX.user.js)
-[![Source](https://raw.githubusercontent.com/alexkudrow/UserScripts/master/_resources/button_source.png)](https://github.com/alexkudrow/UserScripts/blob/master/userscripts/XXXXX/XXXXX.user.js)
+[![Install](https://raw.githubusercontent.com/alexkudrow/UserScripts/master/_resources/button_install.png)](https://github.com/alexkudrow/UserScripts/raw/master/userscripts/SCRIPTFILE/SCRIPTFILE.user.js)
+[![Source](https://raw.githubusercontent.com/alexkudrow/UserScripts/master/_resources/button_source.png)](https://github.com/alexkudrow/UserScripts/blob/master/userscripts/SCRIPTFILE/SCRIPTFILE.user.js)
 
 ## Description
 
@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet.
 
 ## Screenshot
 
-![](https://placehold.co/160x100/EEE/31343C?text=Screenshot)
+![SCRIPTNAME screenshot](https://raw.githubusercontent.com/alexkudrow/UserScripts/master/userscripts/SCRIPTFILE/screenshot.png)
 
 ## Compatible
 
