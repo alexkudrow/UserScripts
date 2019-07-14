@@ -17,5 +17,8 @@ Peep last VK user message without dropping unread status
 
 ## Version History
 
+- **1.0.1**
+    * Updated metadata block.
+
 - **1.0**
     * Initial version.
