@@ -9,7 +9,7 @@ Peep last VK user message without dropping unread status
 
 ## Screenshot
 
-![Peep VK message Screenshot](https://raw.githubusercontent.com/alexkudrow/UserScripts/master/userscripts/peep_vk_message/screenshot.png)
+![Peep VK message screenshot](https://raw.githubusercontent.com/alexkudrow/UserScripts/master/userscripts/peep_vk_message/screenshot.png)
 
 ## Compatible
 
