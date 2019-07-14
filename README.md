@@ -6,7 +6,7 @@ The repo contains UserScripts that I make for my own usage and ready to share wi
 
 ## UserScripts list
 
-- Nothing added yet
+- [Peep VK message](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/peep_vk_message) – Peep last VK user message without dropping unread status
 
 ## Links
 
