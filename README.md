@@ -14,6 +14,6 @@ The repo contains UserScripts that I make for my own usage and ready to share wi
 
 ## License
 
-All resources in [the repository](https://github.com/alexkudrow/UserScripts) are licensed under the terms [GNU General Public License v3.0](https://github.com/alexkudrow/UserScripts/blob/master/LICENSE.txt) unless explicitly otherwise stated.
+All resources in [the repository](https://github.com/alexkudrow/UserScripts) are licensed under the terms of the [GNU General Public License v3.0](https://github.com/alexkudrow/UserScripts/blob/master/LICENSE.txt) unless explicitly otherwise stated.
 
 © 2019 Alex Kudrow (http://github.com/alexkudrow)
