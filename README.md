@@ -7,6 +7,7 @@ The repo contains UserScripts that I make for my own usage and ready to share wi
 ## UserScripts list
 
 - [Peep VK message](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/peep_vk_message) – Peep last VK user message without dropping unread status
+- [Peep Telegram message](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/peep_telegram_message) – Peep last Telegram user message without dropping unread status
 
 ## Links
 
@@ -17,3 +18,5 @@ The repo contains UserScripts that I make for my own usage and ready to share wi
 All resources in [the repository](https://github.com/alexkudrow/UserScripts) are licensed under the terms of the [GNU General Public License v3.0](https://github.com/alexkudrow/UserScripts/blob/master/LICENSE.txt) unless explicitly otherwise stated.
 
 © 2019 Alex Kudrow (http://github.com/alexkudrow)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde hic non repellendus debitis iure, doloremque assumenda. Autem modi, corrupti, nobis ea iure fugiat, veniam non quaerat mollitia animi error corporis.
