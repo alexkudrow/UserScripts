@@ -17,6 +17,10 @@ Peep last VK user message without dropping unread status
 
 ## Version History
 
+- **1.2**
+    * Added new match url.
+    * Сode cleaned and simplified.
+
 - **1.1**
     * Shows message over the whole dialog block.
 
