@@ -8,6 +8,7 @@ The repo contains UserScripts that I make for my own usage and ready to share wi
 
 - [Peep VK message](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/peep_vk_message) – Peep last VK user message without dropping unread status
 - [Peep Telegram message](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/peep_telegram_message) – Peep last Telegram user message without dropping unread status
+- [Duolingo keyboard layout](https://github.com/alexkudrow/UserScripts/tree/master/userscripts/duolingo_keyboard_layout) – Warns when you need to switch the keyboard layout during exercise
 
 ## Links
 
